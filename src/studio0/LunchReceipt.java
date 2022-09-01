@@ -1,3 +1,5 @@
+
+
 package studio0;
 
 public class LunchReceipt {
